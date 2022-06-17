@@ -17,5 +17,6 @@ dependencies:
   - myst-nb
   - sphinx-book-theme
   - sphinx-copybutton
+  - jupytext
   - pip:
     - gym[atari]==0.19
